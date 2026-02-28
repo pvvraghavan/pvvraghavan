@@ -84,7 +84,7 @@ me.say_hi()
 
 | Year | Title | Conference / Journal |
 |:---:|---|---|
-| 2026 | 📘 *[A Computer Vision Apprach for Electrical Design Compoenent Detection and Management using Deep Learning]* | Second International Conference on AI, Computation, Communication & Network Security — University of Wollongong in Dubai | Accepeted for Publication
+| 2026 | 📘 A Computer Vision Apprach for Electrical Design Compoenent Detection and Management using Deep Learning | Second International Conference on AI, Computation, Communication & Network Security — University of Wollongong in Dubai | Accepeted for Publication
 | 2024 | 📗 [AI and Privacy: Ethical Concerns in Data Collection and Surveillance](https://www.ijfmr.com) | International Journal for Multidisciplinary Research, Vol. 6, Issue 6 |
 
 </div>
