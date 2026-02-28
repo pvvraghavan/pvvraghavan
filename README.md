@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishnav%20Veeraraghavan%20Prasad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Data%20Analyst%20%7C%20Software%20Developer&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD4F7&center=true&vCenter=true&multiline=false&width=700&lines=MSc+Computing+Science+%40+University+of+Glasgow+%F0%9F%8F%B4%F3%A0%A0%A7%F3%A0%A0%B3%F3%A0%A0%B7%F3%A0%A0%AC%F3%A0%A0%B3%F3%A0%A0%BE;Building+ML+Systems+%F0%9F%A4%96+%7C+Computer+Vision+%F0%9F%91%81%EF%B8%8F+%7C+Data+Pipelines+%F0%9F%94%A7;Published+Researcher+%F0%9F%93%84+%7C+AICCoNS+2026;Open+to+Summer+2026+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD4F7&center=true&vCenter=true&multiline=false&width=800&lines=MSc+Computing+Science+%40+University+of+Glasgow;Building+ML+Systems+%7C+Computer+Vision+%7C+Data+Pipelines;Accepted+at+AICCoNS+2026+%7C+April+2026;Open+to+Summer+2026+Internships)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,6 +37,7 @@ me.say_hi()
 **Languages & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -83,7 +84,7 @@ me.say_hi()
 
 | Year | Title | Conference / Journal |
 |:---:|---|---|
-| 2026 | 📘 *[Paper Title — AICCoNS 2026]* | Second International Conference on AI, Computation, Communication & Network Security — University of Wollongong in Dubai |
+| 2026 | 📘 *[A Computer Vision Apprach for Electrical Design Compoenent Detection and Management using Deep Learning]* | Second International Conference on AI, Computation, Communication & Network Security — University of Wollongong in Dubai | Accepeted for Publication
 | 2024 | 📗 [AI and Privacy: Ethical Concerns in Data Collection and Surveillance](https://www.ijfmr.com) | International Journal for Multidisciplinary Research, Vol. 6, Issue 6 |
 
 </div>
@@ -93,10 +94,10 @@ me.say_hi()
 ## 💼 Experience Timeline
 
 ```
-2024 Sep ──► 2025 May   🤖  ML Project Intern         @ Kristl Seibt Engineers  (Industry Sponsored)
-2024 May ──► 2024 Aug   💻  Software Developer Intern  @ Kristl Seibt Engineers
+2024 Sep ──► 2025 May   🤖  ML Project Intern         @ Kristl Seibt India Pvt. Ltd (Industry Sponsored)
+2024 May ──► 2024 Aug   💻  Software Developer Intern  @ Kristl Seibt India Pvt. Ltd
 2024 Feb ──► 2024 Mar   🌐  Web Developer Intern       @ Lisys Technocraft
-2023 Jun ──► 2023 Aug   🔧  Software Developer Intern  @ Kristl Seibt Engineers
+2023 Jun ──► 2023 Aug   🔧  Software Developer Intern  @ Kristl Seibt India Pvt. Ltd
 ```
 
 ---
