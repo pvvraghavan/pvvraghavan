@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishnav%20Veeraraghavan%20Prasad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20AI%20%26%20LLM%20Systems&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishnav%20Veeraraghavan%20Prasad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Data%20Analyst%20%7C%20Software%20Developer&descAlignY=55&descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD4F7&center=true&vCenter=true&multiline=false&width=800&lines=MSc+Computing+Science+Graduate+%40+Glasgow;Building+End-to-End+ML+Systems;LLM+Compression+%7C+Edge+AI+%7C+MLOps;Python+%7C+PyTorch+%7C+FastAPI+%7C+Docker)](https://git.io/typing-svg)
 
